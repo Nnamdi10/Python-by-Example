@@ -1,1 +1,0 @@
-print("What do you call a bear wit no teeth? \n A gummy bear!")
